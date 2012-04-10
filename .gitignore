@@ -1,0 +1,5 @@
+scielobooksanalytics-env/
+*.pyc
+*.mo
+*.coverage
+_build/
